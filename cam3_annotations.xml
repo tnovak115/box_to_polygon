@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <job>
+      <id>1295889</id>
+      <size>119</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker/>
+      <created>2024-10-09 06:27:01.148844+00:00</created>
+      <updated>2024-10-09 06:41:19.349968+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>118</stop_frame>
+      <frame_filter/>
+      <segments>
+        <segment>
+          <id>1298302</id>
+          <start>0</start>
+          <stop>16</stop>
+          <url>https://app.cvat.ai/api/jobs/1295889</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>zhz03</username>
+        <email>zhz03@g.ucla.edu</email>
+      </owner>
+      <assignee/>
+      <labels>
+        <label>
+          <name>mask_car</name>
+          <color>#70f2e3</color>
+          <type>polygon</type>
+          <attributes/>
+        </label>
+        <label>
+          <name>mask_ped</name>
+          <color>#9d464f</color>
+          <type>rectangle</type>
+          <attributes/>
+        </label>
+      </labels>
+    </job>
+    <dumped>2024-10-09 06:42:29.496513+00:00</dumped>
+  </meta>
+  <image id="0" name="000000_cam3_left.jpeg" width="1920" height="1080">
+    <box label="mask_ped" source="manual" occluded="0" xtl="1881" ytl="579" xbr="1902" ybr="611" z_order="0"/>
+  </image>
+  <image id="1" name="000001_cam3_left.jpeg" width="1920" height="1080"/>
+  <image id="2" name="000002_cam3_left.jpeg" width="1920" height="1080"/>
+  <image id="3" name="000003_cam3_left.jpeg" width="1920" height="1080"/>
+  <image id="4" name="000004_cam3_left.jpeg" width="1920" height="1080"/>
+  <image id="5" name="000005_cam3_left.jpeg" width="1920" height="1080"/>
+  <image id="6" name="000006_cam3_left.jpeg" width="1920" height="1080"/>
+  <image id="7" name="000007_cam3_left.jpeg" width="1920" height="1080"/>
+  <image id="8" name="000008_cam3_left.jpeg" width="1920" height="1080"/>
+  <image id="9" name="000009_cam3_left.jpeg" width="1920" height="1080"/>
+  <image id="10" name="000010_cam3_left.jpeg" width="1920" height="1080"/>
+  <image id="11" name="000011_cam3_left.jpeg" width="1920" height="1080">
+    <box label="mask_ped" source="manual" occluded="0" xtl="1885" ytl="574" xbr="1906" ybr="594" z_order="0"/>
+  </image>
+  <image id="12" name="000012_cam3_left.jpeg" width="1920" height="1080">
+    <box label="mask_ped" source="manual" occluded="0" xtl="1865" ytl="570" xbr="1889" ybr="596" z_order="0"/>
+  </image>
+  <image id="13" name="000013_cam3_left.jpeg" width="1920" height="1080">
+    <box label="mask_ped" source="manual" occluded="0" xtl="1855" ytl="578" xbr="1875" ybr="597" z_order="0"/>
+    <box label="mask_ped" source="manual" occluded="0" xtl="1713" ytl="587" xbr="1741" ybr="620" z_order="0"/>
+  </image>
+  <image id="14" name="000014_cam3_left.jpeg" width="1920" height="1080">
+    <box label="mask_ped" source="manual" occluded="0" xtl="1691" ytl="582" xbr="1705" ybr="595" z_order="0"/>
+    <box label="mask_ped" source="manual" occluded="0" xtl="1860" ytl="563" xbr="1877" ybr="583" z_order="0"/>
+    <box label="mask_ped" source="manual" occluded="0" xtl="1837" ytl="574" xbr="1850" ybr="587" z_order="0"/>
+    <box label="mask_ped" source="manual" occluded="0" xtl="1687" ytl="591" xbr="1707" ybr="624" z_order="0"/>
+  </image>
+  <image id="15" name="000015_cam3_left.jpeg" width="1920" height="1080">
+    <box label="mask_ped" source="manual" occluded="0" xtl="1821" ytl="580" xbr="1843" ybr="602" z_order="0"/>
+    <box label="mask_ped" source="manual" occluded="0" xtl="1679" ytl="581" xbr="1692" ybr="594" z_order="0"/>
+    <box label="mask_ped" source="manual" occluded="0" xtl="1849" ytl="564" xbr="1866" ybr="584" z_order="0"/>
+  </image>
+  <image id="16" name="000016_cam3_left.jpeg" width="1920" height="1080">
+    <box label="mask_ped" source="manual" occluded="0" xtl="1792" ytl="576" xbr="1814" ybr="597" z_order="0"/>
+    <box label="mask_ped" source="manual" occluded="0" xtl="1824" ytl="563" xbr="1841" ybr="583" z_order="0"/>
+    <box label="mask_ped" source="manual" occluded="0" xtl="1655" ytl="583" xbr="1677" ybr="609" z_order="0"/>
+  </image>
+  <image id="17" name="000017_cam3_left.jpeg" width="1920" height="1080">
+    <box label="mask_ped" source="manual" occluded="0" xtl="1813" ytl="560" xbr="1830" ybr="579" z_order="0"/>
+    <box label="mask_ped" source="manual" occluded="0" xtl="1651" ytl="582" xbr="1664" ybr="597" z_order="0"/>
+  </image>
+  <image id="18" name="000018_cam3_left.jpeg" width="1920" height="1080">
+    <box label="mask_ped" source="manual" occluded="0" xtl="1613" ytl="577" xbr="1625" ybr="589" z_order="0"/>
+    <box label="mask_ped" source="manual" occluded="0" xtl="1754" ytl="570" xbr="1775" ybr="594" z_order="0"/>
+  </image>
+  <image id="19" name="000019_cam3_left.jpeg" width="1920" height="1080">
+    <box label="mask_ped" source="manual" occluded="0" xtl="1598" ytl="574" xbr="1610" ybr="586" z_order="0"/>
+    <box label="mask_ped" source="manual" occluded="0" xtl="1773" ytl="558" xbr="1792" ybr="582" z_order="0"/>
+  </image>
+  <image id="20" name="000020_cam3_left.jpeg" width="1920" height="1080">
+    <box label="mask_ped" source="manual" occluded="0" xtl="1567" ytl="573" xbr="1579" ybr="585" z_order="0"/>
+    <box label="mask_ped" source="manual" occluded="0" xtl="1743" ytl="556" xbr="1761" ybr="578" z_order="0"/>
+  </image>
+  <image id="21" name="000021_cam3_left.jpeg" width="1920" height="1080">
+    <box label="mask_ped" source="manual" occluded="0" xtl="1729" ytl="555" xbr="1748" ybr="579" z_order="0"/>
+    <box label="mask_ped" source="manual" occluded="0" xtl="1551" ytl="573" xbr="1564" ybr="586" z_order="0"/>
+  </image>
+  <image id="22" name="000022_cam3_left.jpeg" width="1920" height="1080">
+    <box label="mask_ped" source="manual" occluded="0" xtl="1700" ytl="558" xbr="1719" ybr="581" z_order="0"/>
+    <box label="mask_ped" source="manual" occluded="0" xtl="1518" ytl="578" xbr="1529" ybr="590" z_order="0"/>
+  </image>
+  <image id="23" name="000023_cam3_left.jpeg" width="1920" height="1080">
+    <box label="mask_ped" source="manual" occluded="0" xtl="1682" ytl="559" xbr="1704" ybr="586" z_order="0"/>
+  </image>
+  <image id="24" name="000024_cam3_left.jpeg" width="1920" height="1080">
+    <box label="mask_ped" source="manual" occluded="0" xtl="1652" ytl="561" xbr="1668" ybr="583" z_order="0"/>
+    <box label="mask_ped" source="manual" occluded="0" xtl="1470" ytl="626" xbr="1489" ybr="651" z_order="0"/>
+  </image>
+  <image id="25" name="000025_cam3_left.jpeg" width="1920" height="1080">
+    <box label="mask_ped" source="manual" occluded="0" xtl="1600" ytl="580" xbr="1619" ybr="600" z_order="0"/>
+    <box label="mask_ped" source="manual" occluded="0" xtl="1448" ytl="615" xbr="1469" ybr="639" z_order="0"/>
+  </image>
+  <image id="26" name="000026_cam3_left.jpeg" width="1920" height="1080">
+    <box label="mask_ped" source="manual" occluded="0" xtl="1553" ytl="572" xbr="1567" ybr="587" z_order="0"/>
+    <box label="mask_ped" source="manual" occluded="0" xtl="1601" ytl="563" xbr="1621" ybr="587" z_order="0"/>
+  </image>
+  <image id="27" name="000027_cam3_left.jpeg" width="1920" height="1080">
+    <box label="mask_ped" source="manual" occluded="0" xtl="1535" ytl="573" xbr="1550" ybr="588" z_order="0"/>
+  </image>
+  <image id="28" name="000028_cam3_left.jpeg" width="1920" height="1080">
+    <box label="mask_ped" source="manual" occluded="0" xtl="1548" ytl="566" xbr="1564" ybr="588" z_order="0"/>
+    <box label="mask_ped" source="manual" occluded="0" xtl="1511" ytl="585" xbr="1530" ybr="606" z_order="0"/>
+  </image>
+  <image id="29" name="000029_cam3_left.jpeg" width="1920" height="1080">
+    <box label="mask_ped" source="manual" occluded="0" xtl="1479" ytl="579" xbr="1493" ybr="593" z_order="0"/>
+    <box label="mask_ped" source="manual" occluded="0" xtl="1530" ytl="568" xbr="1544" ybr="589" z_order="0"/>
+  </image>
+  <image id="30" name="000030_cam3_left.jpeg" width="1920" height="1080">
+    <box label="mask_ped" source="manual" occluded="0" xtl="1491" ytl="574" xbr="1508" ybr="594" z_order="0"/>
+  </image>
+  <image id="31" name="000031_cam3_left.jpeg" width="1920" height="1080">
+    <box label="mask_ped" source="manual" occluded="0" xtl="1471" ytl="576" xbr="1488" ybr="599" z_order="0"/>
+    <box label="mask_ped" source="manual" occluded="0" xtl="1422" ytl="587" xbr="1436" ybr="601" z_order="0"/>
+    <box label="mask_ped" source="manual" occluded="0" xtl="1281" ytl="640" xbr="1305" ybr="672" z_order="0"/>
+  </image>
+  <image id="32" name="000032_cam3_left.jpeg" width="1920" height="1080">
+    <box label="mask_ped" source="manual" occluded="0" xtl="1430" ytl="576" xbr="1448" ybr="597" z_order="0"/>
+    <box label="mask_ped" source="manual" occluded="0" xtl="1382" ytl="586" xbr="1396" ybr="600" z_order="0"/>
+  </image>
+  <image id="33" name="000033_cam3_left.jpeg" width="1920" height="1080">
+    <box label="mask_ped" source="manual" occluded="0" xtl="1409" ytl="576" xbr="1427" ybr="598" z_order="0"/>
+    <box label="mask_ped" source="manual" occluded="0" xtl="1362" ytl="585" xbr="1376" ybr="599" z_order="0"/>
+  </image>
+  <image id="34" name="000034_cam3_left.jpeg" width="1920" height="1080">
+    <box label="mask_ped" source="manual" occluded="0" xtl="1365" ytl="577" xbr="1382" ybr="600" z_order="0"/>
+    <box label="mask_ped" source="manual" occluded="0" xtl="1318" ytl="586" xbr="1334" ybr="602" z_order="0"/>
+  </image>
+  <image id="35" name="000035_cam3_left.jpeg" width="1920" height="1080">
+    <box label="mask_ped" source="manual" occluded="0" xtl="1344" ytl="577" xbr="1362" ybr="598" z_order="0"/>
+    <box label="mask_ped" source="manual" occluded="0" xtl="1297" ytl="587" xbr="1311" ybr="602" z_order="0"/>
+    <box label="mask_ped" source="manual" occluded="0" xtl="1854" ytl="579" xbr="1865" ybr="594" z_order="0"/>
+  </image>
+  <image id="36" name="000036_cam3_left.jpeg" width="1920" height="1080">
+    <box label="mask_ped" source="manual" occluded="0" xtl="1298" ytl="580" xbr="1316" ybr="601" z_order="0"/>
+    <box label="mask_ped" source="manual" occluded="0" xtl="1252" ytl="590" xbr="1267" ybr="605" z_order="0"/>
+    <box label="mask_ped" source="manual" occluded="0" xtl="1805" ytl="581" xbr="1820" ybr="597" z_order="0"/>
+  </image>
+  <image id="37" name="000037_cam3_left.jpeg" width="1920" height="1080">
+    <box label="mask_ped" source="manual" occluded="0" xtl="1782" ytl="580" xbr="1797" ybr="597" z_order="0"/>
+    <box label="mask_ped" source="manual" occluded="0" xtl="1275" ytl="579" xbr="1294" ybr="602" z_order="0"/>
+    <box label="mask_ped" source="manual" occluded="0" xtl="1229" ytl="589" xbr="1241" ybr="606" z_order="0"/>
+  </image>
+  <image id="38" name="000038_cam3_left.jpeg" width="1920" height="1080">
+    <box label="mask_ped" source="manual" occluded="0" xtl="1229" ytl="579" xbr="1246" ybr="599" z_order="0"/>
+    <box label="mask_ped" source="manual" occluded="0" xtl="1736" ytl="582" xbr="1752" ybr="599" z_order="0"/>
+  </image>
+  <image id="39" name="000039_cam3_left.jpeg" width="1920" height="1080">
+    <box label="mask_ped" source="manual" occluded="0" xtl="1204" ytl="579" xbr="1222" ybr="599" z_order="0"/>
+  </image>
+  <image id="40" name="000040_cam3_left.jpeg" width="1920" height="1080">
+    <box label="mask_ped" source="manual" occluded="0" xtl="1155" ytl="576" xbr="1174" ybr="597" z_order="0"/>
+  </image>
+  <image id="41" name="000041_cam3_left.jpeg" width="1920" height="1080">
+    <box label="mask_ped" source="manual" occluded="0" xtl="1126" ytl="575" xbr="1146" ybr="599" z_order="0"/>
+  </image>
+  <image id="42" name="000042_cam3_left.jpeg" width="1920" height="1080">
+    <box label="mask_ped" source="manual" occluded="0" xtl="1221" ytl="617" xbr="1232" ybr="631" z_order="0"/>
+  </image>
+  <image id="43" name="000043_cam3_left.jpeg" width="1920" height="1080"/>
+  <image id="44" name="000044_cam3_left.jpeg" width="1920" height="1080"/>
+  <image id="45" name="000045_cam3_left.jpeg" width="1920" height="1080"/>
+  <image id="46" name="000046_cam3_left.jpeg" width="1920" height="1080">
+    <box label="mask_ped" source="manual" occluded="0" xtl="1446" ytl="578" xbr="1458" ybr="593" z_order="0"/>
+    <box label="mask_ped" source="manual" occluded="0" xtl="858" ytl="615" xbr="894" ybr="654" z_order="0"/>
+    <box label="mask_ped" source="manual" occluded="0" xtl="1125" ytl="617" xbr="1135" ybr="628" z_order="0"/>
+  </image>
+  <image id="47" name="000047_cam3_left.jpeg" width="1920" height="1080"/>
+  <image id="48" name="000048_cam3_left.jpeg" width="1920" height="1080">
+    <box label="mask_ped" source="manual" occluded="0" xtl="804" ytl="618" xbr="838" ybr="659" z_order="0"/>
+  </image>
+  <image id="49" name="000049_cam3_left.jpeg" width="1920" height="1080">
+    <box label="mask_ped" source="manual" occluded="0" xtl="631" ytl="641" xbr="653" ybr="668" z_order="0"/>
+  </image>
+  <image id="50" name="000050_cam3_left.jpeg" width="1920" height="1080"/>
+  <image id="51" name="000051_cam3_left.jpeg" width="1920" height="1080">
+    <box label="mask_ped" source="manual" occluded="0" xtl="1029" ytl="626" xbr="1048" ybr="654" z_order="0"/>
+    <box label="mask_ped" source="manual" occluded="0" xtl="673" ytl="597" xbr="700" ybr="630" z_order="0"/>
+  </image>
+  <image id="52" name="000052_cam3_left.jpeg" width="1920" height="1080"/>
+  <image id="53" name="000053_cam3_left.jpeg" width="1920" height="1080">
+    <box label="mask_ped" source="manual" occluded="0" xtl="598" ytl="614" xbr="615" ybr="634" z_order="0"/>
+  </image>
+  <image id="54" name="000054_cam3_left.jpeg" width="1920" height="1080">
+    <box label="mask_ped" source="manual" occluded="0" xtl="570" ytl="616" xbr="588" ybr="637" z_order="0"/>
+  </image>
+  <image id="55" name="000055_cam3_left.jpeg" width="1920" height="1080">
+    <box label="mask_ped" source="manual" occluded="0" xtl="512" ytl="620" xbr="527" ybr="640" z_order="0"/>
+    <box label="mask_ped" source="manual" occluded="0" xtl="394" ytl="657" xbr="419" ybr="692" z_order="0"/>
+  </image>
+  <image id="56" name="000056_cam3_left.jpeg" width="1920" height="1080">
+    <box label="mask_ped" source="manual" occluded="0" xtl="370" ytl="626" xbr="385" ybr="643" z_order="0"/>
+  </image>
+  <image id="57" name="000057_cam3_left.jpeg" width="1920" height="1080">
+    <box label="mask_ped" source="manual" occluded="0" xtl="344" ytl="621" xbr="359" ybr="637" z_order="0"/>
+  </image>
+  <image id="58" name="000058_cam3_left.jpeg" width="1920" height="1080">
+    <box label="mask_ped" source="manual" occluded="0" xtl="448" ytl="605" xbr="465" ybr="625" z_order="0"/>
+  </image>
+  <image id="59" name="000059_cam3_left.jpeg" width="1920" height="1080">
+    <box label="mask_ped" source="manual" occluded="0" xtl="948" ytl="606" xbr="959" ybr="621" z_order="0"/>
+    <box label="mask_ped" source="manual" occluded="0" xtl="337" ytl="624" xbr="357" ybr="644" z_order="0"/>
+  </image>
+  <image id="60" name="000060_cam3_left.jpeg" width="1920" height="1080">
+    <box label="mask_ped" source="manual" occluded="0" xtl="919" ytl="609" xbr="931" ybr="624" z_order="0"/>
+    <box label="mask_ped" source="manual" occluded="0" xtl="308" ytl="624" xbr="328" ybr="645" z_order="0"/>
+    <box label="mask_ped" source="manual" occluded="0" xtl="803" ytl="629" xbr="821" ybr="655" z_order="0"/>
+  </image>
+  <image id="61" name="000061_cam3_left.jpeg" width="1920" height="1080">
+    <box label="mask_ped" source="manual" occluded="0" xtl="254" ytl="621" xbr="273" ybr="643" z_order="0"/>
+    <box label="mask_ped" source="manual" occluded="0" xtl="865" ytl="608" xbr="878" ybr="623" z_order="0"/>
+    <box label="mask_ped" source="manual" occluded="0" xtl="746" ytl="619" xbr="758" ybr="632" z_order="0"/>
+  </image>
+  <image id="62" name="000062_cam3_left.jpeg" width="1920" height="1080">
+    <box label="mask_ped" source="manual" occluded="0" xtl="225" ytl="621" xbr="245" ybr="644" z_order="0"/>
+    <box label="mask_ped" source="manual" occluded="0" xtl="838" ytl="608" xbr="850" ybr="623" z_order="0"/>
+  </image>
+  <image id="63" name="000063_cam3_left.jpeg" width="1920" height="1080">
+    <box label="mask_ped" source="manual" occluded="0" xtl="784" ytl="610" xbr="799" ybr="628" z_order="0"/>
+  </image>
+  <image id="64" name="000064_cam3_left.jpeg" width="1920" height="1080">
+    <box label="mask_ped" source="manual" occluded="0" xtl="145" ytl="627" xbr="162" ybr="650" z_order="0"/>
+    <box label="mask_ped" source="manual" occluded="0" xtl="60" ytl="628" xbr="78" ybr="653" z_order="0"/>
+  </image>
+  <image id="65" name="000065_cam3_left.jpeg" width="1920" height="1080">
+    <box label="mask_ped" source="manual" occluded="0" xtl="89" ytl="632" xbr="109" ybr="654" z_order="0"/>
+    <box label="mask_ped" source="manual" occluded="0" xtl="822" ytl="583" xbr="841" ybr="606" z_order="0"/>
+    <box label="mask_ped" source="manual" occluded="0" xtl="12" ytl="664" xbr="38" ybr="702" z_order="0"/>
+  </image>
+  <image id="66" name="000066_cam3_left.jpeg" width="1920" height="1080">
+    <box label="mask_ped" source="manual" occluded="0" xtl="640" ytl="623" xbr="653" ybr="638" z_order="0"/>
+  </image>
+  <image id="67" name="000067_cam3_left.jpeg" width="1920" height="1080">
+    <box label="mask_ped" source="manual" occluded="0" xtl="18" ytl="635" xbr="36" ybr="655" z_order="0"/>
+    <box label="mask_ped" source="manual" occluded="0" xtl="582" ytl="617" xbr="595" ybr="633" z_order="0"/>
+  </image>
+  <image id="68" name="000068_cam3_left.jpeg" width="1920" height="1080">
+    <box label="mask_ped" source="manual" occluded="0" xtl="49" ytl="636" xbr="89" ybr="680" z_order="0"/>
+  </image>
+  <image id="69" name="000069_cam3_left.jpeg" width="1920" height="1080"/>
+  <image id="70" name="000070_cam3_left.jpeg" width="1920" height="1080"/>
+  <image id="71" name="000071_cam3_left.jpeg" width="1920" height="1080"/>
+  <image id="72" name="000072_cam3_left.jpeg" width="1920" height="1080"/>
+  <image id="73" name="000073_cam3_left.jpeg" width="1920" height="1080"/>
+  <image id="74" name="000074_cam3_left.jpeg" width="1920" height="1080"/>
+  <image id="75" name="000075_cam3_left.jpeg" width="1920" height="1080"/>
+  <image id="76" name="000076_cam3_left.jpeg" width="1920" height="1080"/>
+  <image id="77" name="000077_cam3_left.jpeg" width="1920" height="1080"/>
+  <image id="78" name="000078_cam3_left.jpeg" width="1920" height="1080"/>
+  <image id="79" name="000079_cam3_left.jpeg" width="1920" height="1080"/>
+  <image id="80" name="000080_cam3_left.jpeg" width="1920" height="1080"/>
+  <image id="81" name="000081_cam3_left.jpeg" width="1920" height="1080"/>
+  <image id="82" name="000082_cam3_left.jpeg" width="1920" height="1080"/>
+  <image id="83" name="000083_cam3_left.jpeg" width="1920" height="1080"/>
+  <image id="84" name="000084_cam3_left.jpeg" width="1920" height="1080"/>
+  <image id="85" name="000085_cam3_left.jpeg" width="1920" height="1080"/>
+  <image id="86" name="000086_cam3_left.jpeg" width="1920" height="1080"/>
+  <image id="87" name="000087_cam3_left.jpeg" width="1920" height="1080"/>
+  <image id="88" name="000088_cam3_left.jpeg" width="1920" height="1080"/>
+  <image id="89" name="000089_cam3_left.jpeg" width="1920" height="1080"/>
+  <image id="90" name="000090_cam3_left.jpeg" width="1920" height="1080"/>
+  <image id="91" name="000091_cam3_left.jpeg" width="1920" height="1080"/>
+  <image id="92" name="000092_cam3_left.jpeg" width="1920" height="1080">
+    <box label="mask_ped" source="manual" occluded="0" xtl="1813" ytl="563" xbr="1832" ybr="587" z_order="0"/>
+  </image>
+  <image id="93" name="000093_cam3_left.jpeg" width="1920" height="1080"/>
+  <image id="94" name="000094_cam3_left.jpeg" width="1920" height="1080"/>
+  <image id="95" name="000095_cam3_left.jpeg" width="1920" height="1080"/>
+  <image id="96" name="000096_cam3_left.jpeg" width="1920" height="1080"/>
+  <image id="97" name="000097_cam3_left.jpeg" width="1920" height="1080"/>
+  <image id="98" name="000098_cam3_left.jpeg" width="1920" height="1080"/>
+  <image id="99" name="000099_cam3_left.jpeg" width="1920" height="1080"/>
+  <image id="100" name="000100_cam3_left.jpeg" width="1920" height="1080"/>
+  <image id="101" name="000101_cam3_left.jpeg" width="1920" height="1080"/>
+  <image id="102" name="000102_cam3_left.jpeg" width="1920" height="1080"/>
+  <image id="103" name="000103_cam3_left.jpeg" width="1920" height="1080"/>
+  <image id="104" name="000104_cam3_left.jpeg" width="1920" height="1080"/>
+  <image id="105" name="000105_cam3_left.jpeg" width="1920" height="1080"/>
+  <image id="106" name="000106_cam3_left.jpeg" width="1920" height="1080"/>
+  <image id="107" name="000107_cam3_left.jpeg" width="1920" height="1080"/>
+  <image id="108" name="000108_cam3_left.jpeg" width="1920" height="1080"/>
+  <image id="109" name="000109_cam3_left.jpeg" width="1920" height="1080">
+    <box label="mask_ped" source="manual" occluded="0" xtl="1164" ytl="569" xbr="1188" ybr="591" z_order="0"/>
+  </image>
+  <image id="110" name="000110_cam3_left.jpeg" width="1920" height="1080">
+    <box label="mask_ped" source="manual" occluded="0" xtl="1122" ytl="572" xbr="1142" ybr="594" z_order="0"/>
+  </image>
+  <image id="111" name="000111_cam3_left.jpeg" width="1920" height="1080">
+    <box label="mask_ped" source="manual" occluded="0" xtl="1085" ytl="571" xbr="1112" ybr="595" z_order="0"/>
+  </image>
+  <image id="112" name="000112_cam3_left.jpeg" width="1920" height="1080">
+    <box label="mask_ped" source="manual" occluded="0" xtl="1895" ytl="556" xbr="1914" ybr="575" z_order="0"/>
+  </image>
+  <image id="113" name="000113_cam3_left.jpeg" width="1920" height="1080">
+    <box label="mask_ped" source="manual" occluded="0" xtl="1838" ytl="553" xbr="1857" ybr="573" z_order="0"/>
+  </image>
+  <image id="114" name="000114_cam3_left.jpeg" width="1920" height="1080">
+    <box label="mask_ped" source="manual" occluded="0" xtl="1812" ytl="552" xbr="1830" ybr="571" z_order="0"/>
+    <box label="mask_ped" source="manual" occluded="0" xtl="1760" ytl="557" xbr="1777" ybr="575" z_order="0"/>
+  </image>
+  <image id="115" name="000115_cam3_left.jpeg" width="1920" height="1080">
+    <box label="mask_ped" source="manual" occluded="0" xtl="1784" ytl="550" xbr="1802" ybr="570" z_order="0"/>
+  </image>
+  <image id="116" name="000116_cam3_left.jpeg" width="1920" height="1080">
+    <box label="mask_ped" source="manual" occluded="0" xtl="1730" ytl="548" xbr="1747" ybr="566" z_order="0"/>
+    <box label="mask_ped" source="manual" occluded="0" xtl="1694" ytl="551" xbr="1707" ybr="569" z_order="0"/>
+  </image>
+  <image id="117" name="000117_cam3_left.jpeg" width="1920" height="1080">
+    <box label="mask_ped" source="manual" occluded="0" xtl="1703" ytl="548" xbr="1720" ybr="567" z_order="0"/>
+    <box label="mask_ped" source="manual" occluded="0" xtl="1670" ytl="552" xbr="1685" ybr="570" z_order="0"/>
+  </image>
+  <image id="118" name="000118_cam3_left.jpeg" width="1920" height="1080">
+    <box label="mask_ped" source="manual" occluded="0" xtl="1650" ytl="554" xbr="1668" ybr="573" z_order="0"/>
+    <box label="mask_ped" source="manual" occluded="0" xtl="1627" ytl="559" xbr="1641" ybr="576" z_order="0"/>
+  </image>
+</annotations>
